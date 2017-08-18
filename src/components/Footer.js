@@ -1,6 +1,6 @@
 import React from 'react'
 
-const Footer = () => ( < div className = "footer" >
+const Footer = () => ( < div className = "fooer" >
     <
     h > mostrar: < /h> <
     a href = "" > Todos < /a> {''} <
